@@ -26,4 +26,4 @@ object contador {
 		return ultimoComando	
 	}
 }
-
+// contador terminado... probar comnado en main,,, //
